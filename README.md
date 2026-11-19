@@ -1,15 +1,31 @@
 # RISY FaceLog
 
+### Adopted by Radhwa International School, Yanbu (boys section) as its attendance system
+
+A face-recognition attendance system designed and built by **A Abdul Hadi, a Grade 12 student**. After seeing it working, the school principal chose it as the school's attendance system, and it is now running as a pilot at the school.
+
 Real-time, GPU-accelerated face recognition built into an **attendance system**. People look at a camera and their attendance is logged automatically by face. A web interface handles enrolment, people, reports and settings.
 
-Built by A Abdul Hadi, a Grade 12 student at Radhwa International School, Yanbu (boys section). See [LICENSE](LICENSE): all rights reserved. The source code is not published in this repository.
+See [LICENSE](LICENSE): all rights reserved. The source code is not published in this repository.
 
-> **Real-world use:** after seeing the system working, the school principal approved it as the basis for the school's attendance system. It is currently running as a pilot at Radhwa International School, Yanbu, boys section.
+---
+
+## From student project to school system
+
+| | |
+|---|---|
+| **Built by** | A Abdul Hadi, Grade 12 |
+| **Adopted by** | Radhwa International School, Yanbu, boys section |
+| **Decision** | The school principal approved it as the school's attendance system |
+| **Status** | Running as a pilot at the school |
+
+It was designed as a full system a school can actually run, with enrolment, reports for staff, anti-spoofing, an admin login and encrypted face data, not just a recognition demo.
 
 ---
 
 ## Table of contents
 
+0. [From student project to school system](#from-student-project-to-school-system)
 1. [Overview](#overview)
 2. [Screenshots](#screenshots)
 3. [Features](#features)
