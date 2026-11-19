@@ -2,7 +2,9 @@
 
 Real-time, GPU-accelerated face recognition built into an **attendance system**. People look at a camera and their attendance is logged automatically by face. A web interface handles enrolment, people, reports and settings.
 
-Built by A Abdul Hadi. See [LICENSE](LICENSE): all rights reserved. The source code is not published in this repository.
+Built by A Abdul Hadi, a Grade 12 student at Radhwa International School, Yanbu (boys section). See [LICENSE](LICENSE): all rights reserved. The source code is not published in this repository.
+
+> **Real-world use:** after seeing the system working, the school principal approved it as the basis for the school's attendance system. It is currently running as a pilot at Radhwa International School, Yanbu, boys section.
 
 ---
 
@@ -43,7 +45,7 @@ It is designed as a complete system, not just a model demo:
 
 ## Screenshots
 
-Screenshots show the interface only. They contain no real people, names or face images.
+Screenshots show the interface only. No student names, ID numbers or face images are published here: the school's records and face data belong to the school and stay on the school's own machine.
 
 **Live page.** The camera stays off until it is started.
 
@@ -252,7 +254,7 @@ Raising the match threshold reduces false accepts; lowering it reduces misses.
 
 ## Status and limitations
 
-Working prototype, tested by the author against phone photos, phone video and prints, in different lighting, and with a larger employee database.
+Running as a pilot at Radhwa International School, Yanbu (boys section), with the principal's approval. Tested by the author against phone photos, phone video and prints, in different lighting, and with a larger employee database.
 
 Known limitations:
 
